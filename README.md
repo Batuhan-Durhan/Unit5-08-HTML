@@ -1,4 +1,4 @@
-# ICS2O-template-HTML
+# Unit5-08-HTML
 
 [![GitHub's Super Linter](https://github.com/Batuhan-Durhan/Unit5-08-HTML/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Batuhan-Durhan/Unit5-08-HTML/actions)
 
